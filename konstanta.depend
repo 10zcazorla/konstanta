@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1540114738 source:c:\tugas\algoritma\konstanta\main.cpp
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+
